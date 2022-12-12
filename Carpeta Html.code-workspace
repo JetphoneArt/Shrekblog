@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Carpeta Html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Almada y Bicais"
+	}
+}
